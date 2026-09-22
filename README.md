@@ -35,7 +35,7 @@ payment methods, returns, and delivery performance.
 - ₹2,715 average order value
 - 24.8% return rate
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/ecommerce-sales-analysis)
+🔗 [View Project](https://github.com/Ismailnafees/ecommerce-sales-analysis)
 
 ## 📚 Currently Learning
 
