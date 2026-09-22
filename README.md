@@ -52,5 +52,5 @@ building projects to apply my analytical and technical skills.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/ismail-nafees-a29241374?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: You're already here! 🚀
